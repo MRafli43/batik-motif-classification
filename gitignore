@@ -1,0 +1,23 @@
+# Dataset & large files
+Data/
+exported_test_set/
+*.h5
+*.keras
+*.weights.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / configs generated at runtime
+*.log
+test_set_info*.json
