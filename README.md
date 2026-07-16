@@ -3,7 +3,6 @@
 Sistem klasifikasi motif batik Indonesia berbasis *deep learning*, membandingkan 4 metode *hyperparameter tuning* × 4 *optimizer* untuk menemukan konfigurasi training terbaik, lalu dideploy jadi web app siap pakai.
 
 🔗 **Live demo:** [SIBIMO on Streamlit](https://app-app-dkgt3s4zmwem8sfk8flbva.streamlit.app/)
-📄 **Full report:** [Tugas Akhir / Skripsi](docs/Laporan_Skripsi.pdf) *(opsional, isi kalau mau upload)*
 
 <img src="assets/sibimo_ui.png" alt="SIBIMO app interface" width="100%" />
 
